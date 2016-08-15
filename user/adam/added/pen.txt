@@ -1,0 +1,5 @@
+category
+date
+description
+swap for
+image url
